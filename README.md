@@ -13,3 +13,7 @@ At the beginning, I've come up with many naming ideas, such as: FlexCards, Tiles
 * Views are verified
 * Views can be cached based on version, to save bandwidth
 * User decides what feeds to subscribe
+
+## Note
+
+This concept is quite similar to the Backend Driven UI and templating engine which were invented later.
